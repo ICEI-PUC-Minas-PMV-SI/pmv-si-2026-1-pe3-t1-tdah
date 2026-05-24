@@ -168,6 +168,84 @@ Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A
 
 ## 4.4 Testes com Protótipos
 
+Com o objetivo de avaliar a usabilidade, a clareza visual e a experiência de navegação dos protótipos de alta fidelidade do projeto Daily&Quests, foi elaborado um roteiro de entrevista composto por 15 questões abertas. O instrumento foi desenvolvido para orientar a coleta de percepções dos usuários durante a interação com o protótipo, permitindo identificar pontos positivos, dificuldades de uso, problemas de compreensão e possíveis melhorias na interface.
+
+As perguntas foram estruturadas com foco em aspectos relacionados à arquitetura da informação, organização visual, acessibilidade, compreensão da proposta gamificada e facilidade de navegação dentro da plataforma. Além disso, o roteiro busca compreender o nível de autonomia do usuário durante a utilização do sistema, bem como avaliar se os elementos visuais e textuais contribuem de forma eficiente para a experiência geral de uso.
+
+Roteiro de Entrevista:
+
+1 - Quando você bateu o olho na página inicial do protótipo do Daily&Quests pela primeira vez, o propósito e o objetivo principal da plataforma ficaram claros para você de imediato?
+
+2 - Avaliando o layout das telas do Daily&Quests, você achou que o menu principal e os botões de ação estão posicionados de uma forma natural e intuitiva para o seu uso?
+
+3 - Os nomes que escolhemos para as seções do Daily&Quests, como 'Inventário', 'Lojas' e 'Hábitos', fizeram sentido para você dentro da proposta gamificada do projeto?
+
+4 - Durante a sua análise do protótipo do Daily&Quests, você teve facilidade para encontrar áreas específicas, como o seu perfil ou a aba de ajuda?
+
+5 - Observando o fluxo desenhado para criar ou concluir uma tarefa no Daily&Quests, você diria que as etapas seguem uma lógica clara e fácil de entender?
+
+6 - Em relação à paleta de cores e aos ícones do Daily&Quests, esses elementos te ajudaram a identificar rapidamente o que era um botão clicável e o que era apenas um texto informativo?
+
+7 - Olhando para o design do Daily&Quests como um todo, existe algum elemento visual ou card que puxou a sua atenção de forma indevida ou causou alguma confusão?
+
+8 - Os textos e rótulos utilizados nas telas do Daily&Quests te orientaram bem sobre quais ações você poderia realizar em cada página?
+
+9 - Houve algum detalhe no protótipo do Daily&Quests — seja pelo tamanho da fonte, contraste de cores ou formato — que você considerou difícil de visualizar ou de compreender?
+
+10 - Nas áreas de leitura do Daily&Quests, como na tela de Ajuda (FAQ), você achou que as instruções e explicações estão escritas de forma clara e acessível?
+
+11 - Ao explorar as telas do Daily&Quests, você esbarrou em algum termo técnico ou expressão da nossa mecânica de jogos (como HP ou XP) que pareceu confuso no primeiro momento?
+
+12 - Observando o protótipo do Daily&Quests, você se sente confiante para usar a plataforma sozinho no dia a dia, ou acha que precisaria de um tutorial para começar?
+
+13 - Pensando em tudo o que você viu da interface do Daily&Quests, qual foi a funcionalidade ou o detalhe visual que você mais gostou?
+
+14 - Se você pudesse alterar, remover ou adicionar algo para tornar o Daily&Quests perfeito para a sua rotina, o que você mudaria?
+
+15 - Tem mais alguma impressão geral, dúvida ou comentário sobre o protótipo do Daily&Quests que você gostaria de compartilhar comigo?
+
+---
+####  Participante 1: Letícia 
+
+Perfil do participante:** Feminino, 19 anos, estudante de Design Gráfico. É altamente visual e se frustra rapidamente com aplicativos feios ou monótonos. Tem problemas com procrastinação nos estudos e nas tarefas de casa. É engajada com a cultura pop, consome muitas redes sociais e ama jogos de simulação e RPG focados em customização (como *Stardew Valley* ou *The Sims*). A maior motivação dela para usar um aplicativo é a capacidade de colecionar itens virtuais e personalizar seu espaço/avatar.
+
+**Respostas do Questionário:**
+
+1- Totalmente! Bati o olho e já vi o avatar e o ouro, percebi na hora que é um *planner* gamificado.
+
+2- Muito intuitivo. A navegação é super fluida e eu não me perdi em nenhum momento. Tudo está a um clique de distância.
+
+3- Fizeram todo o sentido. Eu amei a nomenclatura! Parecia que eu estava entrando em um joguinho, e não numa ferramenta chata de produtividade.
+
+4- Sim, o menu de cima mostra com um sublinhado a página exata em que estou, então pular para a Ajuda ou para a Loja foi super rápido.
+
+5- Super claro. Achei incrível que para criar uma tarefa eu posso definir a dificuldade dela. Faz todo o sentido no contexto do jogo.
+
+6- Com certeza. O contraste do roxo vibrante nos botões principais e o formato dos cards deixam muito óbvio onde eu devo colocar o mouse.
+
+7- Nada me confundiu, mas acho que na aba de loja, poderia ter um aviso de item adquirido para bater olho e saber quais itens já comprei.
+
+8- Guiaram perfeitamente. O fato do botão na loja mudar para "Ouro Insuficiente" quando a gente não tem dinheiro é um detalhe de design excelente.
+
+9- Zero dificuldade. O design é super limpo, as fontes são bonitas e legíveis e os ícones estão num tamanho ótimo.
+
+10- Muito clara. O texto não usa palavras difíceis e responde exatamente o que a gente quer saber de forma rápida.
+
+11- Não, eu jogo bastante RPG, então HP, XP, Avatar e Ouro são praticamente minha segunda língua. Entendi a mecânica de primeira.
+
+12- 100% confiante. Eu já criaria minha conta e passaria meia hora só cadastrando todas as minhas metas e hábitos da semana.
+
+13- A Loja e o meu Avatar! A ideia de que eu só posso comprar roupinhas e pets se eu for produtiva na vida real é genial, eu ia ficar viciada nisso.
+
+14- Eu gostaria de poder personalizar os detalhes do avatar, como cabelo e cor de pele, logo de cara na criação da conta, para ele ficar parecido comigo.
+
+15- O protótipo está lindo! Ele não tem cara de agenda de empresa, tem um apelo visual muito forte que com certeza atrai o público mais jovem universitário.
+
+
+
+
+
+
 Nesta etapa foram realizados testes de usabilidade utilizando o protótipo de alta fidelidade do sistema **TaskUp**. O objetivo foi avaliar a experiência do usuário, analisando a facilidade de navegação, clareza das informações e eficiência das funcionalidades presentes no sistema.
 
 Os testes foram aplicados com usuários alinhados ao perfil das personas definidas anteriormente no projeto.
