@@ -243,254 +243,42 @@ Perfil do participante:** Feminino, 19 anos, estudante de Design Gráfico. É al
 15- O protótipo está lindo! Ele não tem cara de agenda de empresa, tem um apelo visual muito forte que com certeza atrai o público mais jovem universitário.
 
 
-
-
-
-
-Nesta etapa foram realizados testes de usabilidade utilizando o protótipo de alta fidelidade do sistema **TaskUp**. O objetivo foi avaliar a experiência do usuário, analisando a facilidade de navegação, clareza das informações e eficiência das funcionalidades presentes no sistema.
-
-Os testes foram aplicados com usuários alinhados ao perfil das personas definidas anteriormente no projeto.
-
 ---
+#### Participante 2: Nicolle
 
-### Participante do Teste
+**Perfil do participante:** 19 anos, tatuadora iniciante e criadora de conteúdo nas redes sociais. Tem uma rotina onde ainda mora com os pais, gosta de treinar em peles artificiais, pintar quadros e tatuar nos estilos fineline e old school, sempre querendo aprimorar seus trabalhos.
 
-- **Nome:** Lucas Geraldi  
-- **Idade:** 46 anos  
-**Data:** 08/05/26  
-**Participante Nº:** 1
+**Respostas do Questionário:**
 
----
+1- Quando eu bati o olho na página inicial, eu entendi bem rápido que era uma plataforma de produtividade misturada com RPG. O avatar e o sistema de ouro já deixam isso bem claro logo de cara.
 
-### Tarefas Realizadas
+2- Achei tudo muito intuitivo. Os botões e menus estão em lugares fáceis de encontrar e eu não me perdi em nenhum momento usando o protótipo.
 
-Durante o teste, o participante executou as seguintes tarefas:
+3- Fez bastante sentido pra mim. “Inventário”, “Lojas” e “Hábitos” combinam muito com a proposta gamificada e deixam tudo mais divertido.
 
-1. Realizar login no sistema;
-2. Adicionar uma nova tarefa;
-3. Marcar hábitos como concluídos;
-4. Visualizar recompensas disponíveis;
-5. Consultar o progresso do perfil.
+4- Sim, consegui encontrar o perfil e a área de ajuda bem rápido. A navegação parece natural e fácil de entender.
 
----
+5- Achei o fluxo muito claro. Criar e concluir tarefas parece simples e organizado, sem etapas complicadas.
 
-### Resultados Observados
+6- Sim, as cores e os ícones ajudam bastante a identificar o que é clicável. Os botões principais chamam atenção na medida certa.
 
-| Tarefa | Tempo Médio | Observações |
-|---|---|---|
-| Login no sistema | 1 minuto | Processo rápido e intuitivo |
-| Adicionar tarefa | 2 minutos | Pequena dúvida sobre categorias |
-| Concluir hábitos | 1 minuto | Fácil interação com os botões |
-| Visualizar recompensas | 2 minutos | Dificuldade em entender alguns ícones |
-| Consultar progresso | 1 minuto | Informações consideradas claras |
+7- Nada chegou a me confundir, mas alguns cards chamam atenção demais por causa das cores mais fortes, então às vezes eu acabava olhando mais pra eles.
 
----
+8- Sim, os textos orientam muito bem sobre o que fazer em cada tela. Não fiquei em dúvida sobre nenhuma função.
 
-### Feedback do Usuário
+9- A única coisa que eu mudaria seria aumentar um pouco alguns textos menores, porque no celular talvez fique mais difícil de ler.
 
-#### Pontos Positivos
-- Interface moderna e organizada;
-- Navegação simples e intuitiva;
-- Sistema de gamificação motivador;
-- Boa organização visual das tarefas;
-- Fácil acompanhamento do progresso.
+10- Achei a FAQ bem clara e objetiva. As explicações são simples e fáceis de entender.
 
-#### Pontos Negativos
-- Alguns ícones não ficaram totalmente claros;
-- Certas funções poderiam ter maior destaque visual;
-- Algumas informações possuem pouco contraste.
+11- Eu já estou acostumada com jogos, então termos como HP e XP foram tranquilos pra mim. Entendi tudo de primeira.
 
----
+12- Sim, eu conseguiria usar sozinha sem problemas. Mas um tutorial rápido no começo seria legal pra apresentar as funções principais.
 
-### Análise Geral
+13- O que eu mais gostei foi o sistema de avatar e recompensas. A ideia de ganhar itens conforme você completa tarefas dá muito mais motivação.
 
-Os testes demonstraram que o sistema **Daily&Quest** possui uma interface intuitiva e de fácil utilização. O participante conseguiu realizar todas as tarefas propostas sem grandes dificuldades, demonstrando boa usabilidade e compreensão das funcionalidades.
+14- Eu adicionaria mais personalização para o avatar, como opções de cabelo, roupas e cores diferentes, pra deixar mais com a personalidade de cada pessoa.
 
-A mecânica de gamificação foi considerada um dos principais pontos positivos do projeto, ajudando na motivação e no acompanhamento das atividades diárias.
+15- No geral eu achei o protótipo muito bonito e criativo. Ele tem uma identidade visual forte e realmente parece algo que eu usaria no dia a dia.
 
-Apesar dos resultados positivos, foram identificadas oportunidades de melhoria relacionadas à acessibilidade visual e à clareza de alguns elementos da interface.
-
----
-
-### Melhorias Previstas
-
-Com base nos testes realizados, foram definidas as seguintes melhorias para a versão final do projeto:
-
-- Adicionar descrições em ícones;
-- Melhorar contraste visual de alguns elementos;
-- Destacar funções principais da interface;
-- Simplificar categorias de tarefas;
-- Inserir mensagens de ajuda para novos usuários.
-
-
-# Relatório de Teste com Usuário
-
-Projeto: TaskUp
-
-Equipe: SI-pe3-project-TDAH
-
----
-
-**Nome do avaliador:** Arthur Rocha Furtado  
-**Data:** 09/05/26  
-**Participante Nº:** 2
-
----
-
-## Proposta
-
-A proposta deste teste é verificar o entendimento e usabilidade do projeto desenvolvido a partir das interações do usuário representativo do público-alvo. O teste também será utilizado para testar o público geral e avaliar inconsistências e satisfação em relação à interface e usabilidade.
-
----
-
-## Questões Introdutórias e Tarefas
-
-### Familiaridade com o sistema
-
-**Pergunta:**  
-“Você já ouviu falar ou está familiarizado com esse tipo de sistema?”
-
-- [ ] SIM
-- [x] NÃO
-
-*Caso sim, desenvolva a resposta.*
-
----
-
-### Impressão inicial da tela
-
-**Pergunta:**  
-“Olhando para essa tela, que tipo de informação você pode obter?”
-
-> Pelo que se pode ver é um aplicativo para “marcar” tarefas, você adiciona as tarefas e vai marcando com um mais ou menos dependendo se foi feito. Também tem o personagem que vai subindo de nível provavelmente quando completa as coisas, não entendi muito como que consegue as moedas.
-
----
-
-### Objetivo percebido do sistema
-
-**Pergunta:**  
-“Para que você acha que o sistema foi desenvolvido?”
-
-> Para ser uma forma de “lista” de compromissos e tarefas diárias mais descontraído. Para ficar um pouco diferente e parece que dá mais vontade de abrir e fazer as coisas mesmo sem ser tudo cinza, preto e branco.
-
----
-
-### Clareza da interface
-
-**Pergunta:**  
-“Você acha que está fácil de entender o que dá pra fazer logo de cara? Fica alguma coisa confusa na tela?”
-
-> Acho que dá sim, sem clicar em nada só fica meio confuso essa questão das moedas e da loja sobre como funciona, mas dá pra ter uma ideia.
-
----
-
-## Cenário
-
-Descreva neste campo um cenário (definido o contexto) em que o sistema pode estar inserido no momento de uso para apresentar para o usuário.
-
----
-
-# Tarefas para o Usuário
-
-| Tarefa | Caminho(s) | Sucesso na execução | Observações |
-|---|---|---|---|
-| Criar uma tarefa | Clicar em adicionar tarefa, escolher se será hábito, diário ou desafio | 2 | Layout intuitivo, o botão está num lugar bem chamativo logo acima das sessões de tarefas. |
-| Completar uma tarefa | Clicar no “+” ao lado da tarefa para completá-la | 2 | Usuário completou a tarefa em poucos segundos, apenas observou que o “+” deveria ficar à direita e o “-” à esquerda. |
-| Marcar que uma tarefa não foi realizada | Usuário deverá apertar o “-” ao lado da tarefa | 2 | Usuário completou em poucos segundos. |
-| Filtrar algum hábito pela seleção de procura | Usuário deverá clicar na aba “Buscar ou adicionar hábito...” e procurar o hábito desejado | 2 | Usuário comentou que era redundante a parte do “adicionar hábito”, já que existe o botão acima. Também sugeriu uma única barra de busca para todas as categorias. |
-
----
-
-## Legenda de Sucesso
-
-- **0** → Não conseguiu completar  
-- **1** → Completou com dificuldade ou ajuda  
-- **2** → Completou sem dificuldades
-
-# Relatório de Teste com Usuário
-
-Projeto: TaskUp
-
-Equipe: SI-pe3-project-TDAH
-
----
-
-**Nome do avaliador:** Bruna Ribeiro Perez  
-**Data:** 10/05/26  
-**Participante Nº:** 3
-
----
-
-## Proposta
-
-A proposta deste teste é verificar o entendimento e usabilidade do projeto desenvolvido a partir das interações do usuário representativo do público-alvo. O teste também será utilizado para testar o público geral e avaliar inconsistências e satisfação em relação à interface e usabilidade.
-
----
-
-## Questões Introdutórias e Tarefas
-
-### Familiaridade com o sistema
-
-**Pergunta:**  
-“Você já ouviu falar ou está familiarizado com esse tipo de sistema?”
-
-- [x] SIM
-- [ ] NÃO
-
-*Caso sim, desenvolva a resposta.*
-
-> Já tinha ouvido falar em um parecido, chamado Habitica.
-
----
-
-### Impressão inicial da tela
-
-**Pergunta:**  
-“Olhando para essa tela, que tipo de informação você pode obter?”
-
-> É um estilo de aplicativo para marcar hábitos/tarefas, com um personagem que vai evoluindo à medida que você vai realizando as tarefas no dia a dia.
-
----
-
-### Objetivo percebido do sistema
-
-**Pergunta:**  
-“Para que você acha que o sistema foi desenvolvido?”
-
-> Provavelmente para ajudar a organizar melhor a rotina, principalmente de quem tem problema para lembrar das coisas.
-
----
-
-### Clareza da interface
-
-**Pergunta:**  
-“Você acha que está fácil de entender o que dá para fazer logo de cara? Fica alguma coisa confusa na tela?”
-
-> Parece que sim, dá para ter uma ideia boa de como funcionam as coisas só de bater o olho na tela.
-
----
-
-## Cenário
-
-Descreva neste campo um cenário (definido o contexto) em que o sistema pode estar inserido no momento de uso para apresentar para o usuário.
-
----
-
-# Tarefas para o Usuário
-
-| Tarefa | Caminho(s) | Sucesso na execução | Observações |
-|---|---|---|---|
-| Criar uma tarefa | Clicar em adicionar tarefa, escolher se será hábito, diário ou desafio | 2 | Usuário adicionou uma nova tarefa sem apresentar nenhum problema. |
-| Completar uma tarefa | Clicar no “+” ao lado da tarefa para completá-la | 2 | Usuário apertou o “+” instintivamente, tarefa realizada sem problemas. |
-| Marcar que uma tarefa não foi realizada | Usuário deverá apertar o “-” ao lado da tarefa | 2 | Novamente sem nenhum problema, usuário clicou diretamente no “-”. |
-| Filtrar algum hábito pela seleção de procura | Usuário deverá clicar na aba “Buscar ou adicionar hábito...” e procurar o hábito desejado | 2 | Comentário feito sobre existir uma sessão de pesquisa separada para cada tipo de atividade/tarefa. Usuário sugeriu centralizar tudo em apenas uma aba de procura. |
-
----
-
-## Legenda de Sucesso
-
-- **0** → Não conseguiu completar  
-- **1** → Completou com dificuldade ou ajuda  
-- **2** → Completou sem dificuldades
 
 
