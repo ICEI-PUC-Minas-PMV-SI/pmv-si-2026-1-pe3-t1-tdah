@@ -14,11 +14,24 @@ Considerando os fatores citados, além do tratamento correto com medicamentos di
 
 ## 1.1. Problema
 
-Pessoas com TDAH possuem dificuldade de organizar as tarefas do dia a dia, frequentemente sendo possível observar, como por exemplo, um quarto muito desorganizado, cama bagunçada, pilhas de roupas que apenas trocam de lugar, objetos espalhados pela casa, dificuldade de ter uma noção de quanto tempo realmente leva para finalizar uma tarefa e constantes atrasos em coisas do cotidiano. 
+A dificuldade em manter a organização das tarefas diárias e a consistência em rotinas produtivas é um desafio recorrente na sociedade contemporânea. Para o público em geral, a tentativa de estruturar o cotidiano por meio de agendas ou gerenciadores de tarefas tradicionais frequentemente esbarra na monotonia e na falta de engajamento dessas ferramentas, o que resulta em procrastinação, acúmulo de demandas e rápido abandono do método de organização.
 
-## 1.2. Objetivos do trabalho
+Esse cenário torna-se ainda mais crítico e limitante para indivíduos com Transtorno de Déficit de Atenção com Hiperatividade (TDAH). Devido a disfunções executivas intrínsecas ao transtorno, esse grupo enfrenta obstáculos severos no planejamento e na execução, manifestando sintomas como a "cegueira temporal" a incapacidade de estimar corretamente o tempo necessário para iniciar e finalizar uma atividade. Consequentemente, sofrem com atrasos frequentes, desorganização crônica dos compromissos e extrema dificuldade em fragmentar tarefas complexas.
 
-Este trabalho tem como objetivo desenvolver uma ferramenta para auxiliar as pessoas com este transtorno a conseguirem organizar melhor a rotina, tanto no dia a dia quanto tarefas que tem de ser realizadas no longo prazo. Levando também em consideração as peculiaridades sobre o funcionamento diferente da psique, introduzindo elementos de gamificação como estratégia para prender melhor a atenção do usuário e gerar uma sensação de recompensa, que é muitas vezes necessária para que pessoas com TDAH consigam fazer a tarefa desejada e tornar o uso dele um hábito com mais naturalidade. 
+Portanto, o problema central que este trabalho visa solucionar é a ineficácia dos métodos e sistemas de organização convencionais em promover e manter a motivação contínua dos usuários. Essas ferramentas tradicionais falham em engajar o público geral e não oferecem o estímulo cognitivo necessário para auxiliar o público neurodivergente, gerando sobrecarga mental, frustração e queda na qualidade de vida para ambos os perfis.
+
+## 1.2. Objetivos do Trabalho
+
+### 1.2.1. Objetivo Geral
+Desenvolver uma aplicação web gamificada direcionada ao gerenciamento interativo de rotinas e tarefas cotidianas, concebida para atender tanto ao público em geral quanto a indivíduos com Transtorno de Déficit de Atenção com Hiperatividade (TDAH), com o intuito de mitigar a sobrecarga cognitiva, combater a desmotivação associada a métodos organizacionais tradicionais e promover a otimização da gestão do tempo.
+
+### 1.2.2. Objetivos Específicos
+Para a consecução do objetivo geral proposto, estabelecem-se as seguintes etapas metodológicas e operacionais:
+* **Mapear o referencial teórico-científico** acerca do TDAH, com ênfase nas disfunções executivas, nos mecanismos de regulação dopaminérgica e no potencial da gamificação como estratégia pedagógica e de engajamento cognitivo.
+* **Identificar e estruturar os requisitos de experiência do usuário e de design inclusivo direcionados a perfis neurodivergentes, visando à minimização de distratores visuais.
+* **Modelar as mecânicas de gamificação** e a arquitetura da informação da ferramenta tecnológica, assegurando sistemas de feedback e recompensa imediata congruentes com as necessidades motivacionais do público-alvo.
+* **Implementar um protótipo funcional** que integre as funcionalidades de agendamento e gerenciamento de tempo à lógica de incentivos lúdicos previamente estabelecida.
+* **Avaliar a usabilidade da interface desenvolvida**, validando sua eficácia como instrumento de facilitação comportamental e de engajamento contínuo na execução de tarefas rotineiras.
 
 ## 1.3. Justificativa
 
@@ -26,6 +39,15 @@ Há uma infinidade de aplicativos hoje que servem como “lembretes” ou agenda
 
 O projeto tem como função adicionar esta recompensa adicional de dopamina ao finalizar as tarefas, trazendo uma maior facilidade no controle e balanço no dia a dia e diminuindo a carga mental que na maioria das vezes é muito maior para pessoas com o transtorno se comparado a pessoas neurotípicas.
 
-## 1.4. Público alvo
+## 1.4. Público-alvo
 
-Foi estabelecido, como público alvo deste projeto, indivíduos adultos e adolescentes que tem dificuldades em realizar e manter um certo nível de organização nas suas tarefas diárias e a longo prazo. 
+Embora o foco primordial deste projeto direcione-se a indivíduos adolescentes e adultos que apresentam diagnóstico clínico de Transtorno de Déficit de Atenção com Hiperatividade (TDAH) ou comprometimentos nas funções executivas, o público-alvo não se restringe exclusivamente a esse grupo. A aplicação abrange, de forma ampla, o público em geral que busca organizar suas rotinas e otimizar a gestão do tempo por meio de uma abordagem mais leve, interativa e gamificada, em contraposição aos gerenciadores de tarefas tradicionais e estáticos.
+
+* **Contexto de Uso:** Os potenciais usuários inserem-se em ambientes de transição acadêmica ou profissional que exigem elevado grau de autonomia, tais como o ensino médio, o ensino superior e o mercado de trabalho correlato. A utilização do artefato tecnológico dar-se-á de maneira intermitente e dinâmica ao longo do cotidiano, o que demanda mecanismos de inserção rápida de dados para capturar demandas e compromissos no momento exato de sua ocorrência, mitigando o esquecimento decorrente da labilidade atencional característica do transtorno.
+* **Nível de Familiaridade Tecnológica:** O perfil caracteriza-se por uma proficiência digital de moderada a elevada, englobando usuários habituados à navegação em ambientes web, seja por meio de computadores pessoais (desktops e notebooks) ou navegadores em dispositivos móveis. Tendo em vista que o ecossistema web é intrinsecamente propício à dispersão atencional em virtude da multiplicidade de abas, notificações de navegadores e acesso facilitado a outras plataformas e redes sociais, impõe-se a necessidade de uma interface minimalista e responsiva. O design da plataforma deve mitigar ruídos visuais e promover um direcionamento focal claro, evitando a sobrecarga cognitiva e garantindo uma usabilidade fluida para qualquer perfil de usuário.
+* **Necessidades Específicas:** Enquanto para o público neurodivergente a ferramenta supre deficiências fisiológicas (como a baixa regulação dopaminérgica e a "cegueira temporal"), para o público geral ela resolve a dor da desmotivação associada a listas de tarefas monótonas. Assim sendo, o sistema web atende a ambos os perfis por meio da fragmentação de tarefas complexas, da implementação de estímulos visuais lúdicos e de recompensas imediatas que atuem como reforço positivo, garantindo a retenção do usuário e a construção de hábitos organizacionais consistentes.
+
+
+
+
+
