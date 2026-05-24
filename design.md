@@ -162,6 +162,28 @@ Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A
     * **Condução:** O botão principal de compra em destaque e os preços coloridos guiam o olhar direto para as informações essenciais de conversão.
     * **Controle do Usuário:** O usuário tem autonomia total para navegar livremente entre as abas e decidir estrategicamente como investir as recompensas de sua produtividade.
     * **Consistência:** A navegação superior e os padrões de botões de fechamento de modais mantêm a mesma usabilidade encontrada no restante da plataforma.
+ 
+4.3.7 Tela de Ajuda: Tela de suporte estruturada no formato FAQ (Perguntas Frequentes), desenvolvida para auxiliar o usuário a compreender o funcionamento das mecânicas de gamificação (HP, XP e Ouro) e do gerenciamento de tarefas na plataforma web.
+![Ajuda](./screenshot/07-tela-ajuda.jpg)
+
+* **Princípios Gestálticos:**
+    * **Proximidade:** O texto da pergunta e o ícone de expansão (seta) estão alinhados no mesmo bloco, indicando claramente que a interação revelará o conteúdo adjacente.
+    * **Similaridade:** Todas as perguntas da lista possuem a mesma tipografia e cor (azul/roxo), padronizando a identificação de itens interativos na página.
+    * **Continuidade:** O layout vertical conduz o olhar do usuário de forma fluida de cima para baixo na lista de dúvidas.
+    * **Fechamento:** Linhas horizontais sutis separam cada pergunta, delimitando perfeitamente a área interativa de cada tópico no site.
+    * **Figura-Fundo:** O fundo branco do container central destaca o texto escuro (figura), garantindo uma excelente legibilidade focada na leitura no navegador.
+
+* **Regras de Ouro de Shneiderman:**
+    * **Consistência:** A página preserva integralmente o cabeçalho de status (Avatar, HP, XP) e a barra de navegação global, mantendo o usuário imerso no ecossistema do sistema web.
+    * **Feedback Informativo:** Ao clicar em uma pergunta, o ícone de seta inverte sua direção e o texto explicativo surge de forma imediata, confirmando a ação do sistema.
+    * **Redução da Sobrecarga de Memória:** A utilização de blocos expansíveis (*accordion*) esconde textos longos por padrão, evitando que o usuário se depare com uma parede de texto exaustiva e focando apenas no que ele deseja ler.
+    * **Reversão de Ações:** O usuário pode clicar repetidas vezes sobre a pergunta para ocultar a resposta, restaurando a interface web ao seu estado limpo original.
+
+* **Recomendações Ergonômicas:**
+    * **Carga de Trabalho:** A técnica de revelação progressiva exibe informações estritamente sob demanda, o que é fundamental para não desviar o foco de usuários com perfil de TDAH durante a navegação web.
+    * **Condução:** O uso de títulos bem definidos (ex: "Dúvidas Comuns") e a iconografia de setas guiam o comportamento do usuário instintivamente.
+    * **Controle do Usuário:** A plataforma permite total liberdade na exploração, possibilitando que o usuário abra e feche os tópicos conforme a necessidade de aprendizado naquele momento.
+    * **Consistência:** A paleta de cores aplicada nas perguntas ativas dialoga com a cor primária da barra de navegação superior, gerando uniformidade visual em todo o site.
 
 ## 4.4 Testes com Protótipos
 
