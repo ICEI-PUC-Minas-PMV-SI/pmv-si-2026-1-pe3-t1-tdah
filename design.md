@@ -226,7 +226,7 @@ Roteiro de Entrevista:
 ---
 ####  Participante 1: Letícia 
 
-Perfil do participante:** Feminino, 19 anos, estudante de Design Gráfico. É altamente visual e se frustra rapidamente com aplicativos feios ou monótonos. Tem problemas com procrastinação nos estudos e nas tarefas de casa. É engajada com a cultura pop, consome muitas redes sociais e ama jogos de simulação e RPG focados em customização (como *Stardew Valley* ou *The Sims*).
+**Perfil do participante:** Feminino, 19 anos, estudante de Design Gráfico. É altamente visual e se frustra rapidamente com aplicativos feios ou monótonos. Tem problemas com procrastinação nos estudos e nas tarefas de casa. É engajada com a cultura pop, consome muitas redes sociais e ama jogos de simulação e RPG focados em customização (como *Stardew Valley* ou *The Sims*).
 
 **Respostas do Questionário:**
 
