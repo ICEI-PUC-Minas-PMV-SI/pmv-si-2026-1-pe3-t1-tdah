@@ -298,5 +298,79 @@ Roteiro de Entrevista:
 
 15- No geral eu achei o protótipo muito bonito e criativo. Ele tem uma identidade visual forte e realmente parece algo que eu usaria no dia a dia.
 
+---
+####  Participante 3: Catharina
+
+**Perfil do participante:** Feminino, 27 anos, Advogada. Trabalha maior parte do tempo usando o computador e prefere realizar as tarefas assim que aparecem. Consome muitas redes sociais e não tem muita experiencia com jogos.
+
+**Respostas do Questionário:**
+
+1- Sim, parece bem intuitivo a proposta e o que dá para fazer dentro do aplicativo.
+
+2- Bastante, não precisei procurar nada.
+
+3- Parece que sim, pela temática de ser um "jogo" junto com aplicativo de hábitos faz sentido.
+
+4- Tive, acho que o primeiro instinto é olhar na barra de cima para procurar o perfil e as outras opções.
+
+5- Achei sim, na tela principal parece ser facil adicionar o hábito e interagir se eu fiz ou não, gostei também que da para ver fácil a separação.
+
+6- Sim, os botões todos parecem ter cores vibrantes.
+
+7- Pelo protótipo parece que não.
+
+8- Sim e até pela página de ajuda já deixa mais facil caso tivesse alguma dúvida de como funciona.
+
+9- Não.
+
+10- Achei sim, está bem objetivo.
+
+11- Assim, HP e XP eu não saberia dizer mas dá para adivinhar que essas duas barrinhas são a vida do personagem e quanto falta para ir pro próximo nivel.
+
+12- Acho que dá para usar sem tutorial nenhum, bastante intuitivo.
+
+13- Gostei da estética da loja, parecendo mais retrô.
+
+14- Acho que só para me mandar lembrete das coisas que preciso fazer com horário, já integra tudo para usar de agenda e alarme.
+
+15- Bastante legal a proposta, acho que está ficando muito bom o protótipo e tem potencial sim.
+
+
+---
+#### Participante 4: Gabriel
+
+**Perfil do participante:** 26 anos, trabalha como ator em "extras" e alguns curtas. Cresceu jogando e chegou a jogar LoL competitivamente na liga de Portugal, procrastina bastante nas tarefas e suspeita que tem TDAH mas não trata / fez exames e possui bastante experiência com jogos de RPG.
+**Respostas do Questionário:**
+
+1- Sim, bem clara a ideia do projeto.
+
+2- Sim, só de bater o olho já da para achar os botões para interagir com as tarefas e a interface para navegar da para entender bem também.
+
+3- Fazem, a parte dos hábitos na página inicial e depois os elementos do "jogo" em si encaixam com a ideia.
+
+4- Tive, está no padrão de ter o perfil na aba de cima junto com as opções de navegação.
+
+5- Diria sim.
+
+6- Bem fácil, os botões tem o design diferente com cores chamativas.
+
+7- A primeiro momento não.
+
+8- Sim.
+
+9- Não.
+
+10- Sim.
+
+11- Não, já estou bem acostumado com jogos então eu tenho uma referência boa pra esse tipo de linguagem.
+
+12- Da para usar logo de cara, sem tutorial.
+
+13- A tela inicial ter os hábitos já separados é bem legal, da pra visualizar bem tudo que tem que fazer no dia e também ir tentar adiantar as coisas mais a longo prazo que ficam na sua cara toda vez que abre o app.
+
+14- Acho que no protótipo não menciona nada relacionado a notificação entao acho que ia ser legal ter como programar o aplicativo para mandar notificações pro celular.
+
+15- O projeto parece ser bem legal, vou querer testar também quando ficar pronto o beta.
+
 
 
