@@ -1,4 +1,4 @@
-// CONEXÃO COM O BANCO LOCAL (Status e Inventário)
+
 let statusUsuario = JSON.parse(localStorage.getItem('dailyQuests_status')) || { nivel: 0, xpMaximo: 100, xp: 0, hp: 100, ouro: 500 }; 
 let inventario = JSON.parse(localStorage.getItem('dailyQuests_inventario')) || [];
 
@@ -19,7 +19,7 @@ const catalogoLoja = [
 
 let itemSendoComprado = null;
 
-// FUNÇÃO: Atualiza o cabeçalho com o ouro e status atual
+
 function atualizarHeader() {
     document.getElementById('gold-text').innerText = statusUsuario.ouro;
     document.getElementById('lvl-display').innerText = `Nível ${statusUsuario.nivel}`;
@@ -52,7 +52,7 @@ function renderizarLoja() {
         htmlBloco += `<div class="items-grid">`;
 
         itensDaCategoria.forEach(item => {
-            // Regras IHC: Feedback Informativo
+           
             const jaAdquirido = inventario.some(inv => inv.id === item.id);
             const ouroInsuficiente = statusUsuario.ouro < item.preco;
             
@@ -85,7 +85,7 @@ function renderizarLoja() {
     });
 }
 
-// IHC: Reversão de Ações (Abre o modal antes de efetivar a compra)
+
 function abrirModalCompra(id) {
     itemSendoComprado = catalogoLoja.find(i => i.id === id);
     document.getElementById('texto-confirmacao').innerText = `Deseja adquirir '${itemSendoComprado.nome}'?`;
@@ -99,7 +99,7 @@ function fecharModalCompra() {
     itemSendoComprado = null;
 }
 
-// IHC: Efetiva a Compra e integra com a Notificação Global
+
 function efetivarCompra() {
     if (itemSendoComprado && statusUsuario.ouro >= itemSendoComprado.preco) {
         
