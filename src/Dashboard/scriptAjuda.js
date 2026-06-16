@@ -1,7 +1,4 @@
-// CONEXÃO COM O BANCO LOCAL (Para o cabeçalho)
 let statusUsuario = JSON.parse(localStorage.getItem('dailyQuests_status')) || { nivel: 0, xpMaximo: 100, xp: 0, hp: 100, ouro: 0 }; 
-
-// BANCO DE DADOS DAS PERGUNTAS (Adaptado do modelo que você enviou)
 const faqData = [
     {
         pergunta: "Quais são os diferentes tipos de tarefas?",
