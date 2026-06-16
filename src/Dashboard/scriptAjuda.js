@@ -36,7 +36,7 @@ function atualizarHeader() {
     document.getElementById('xp-text').innerText = `${statusUsuario.xp} / ${statusUsuario.xpMaximo}`;
 }
 
-// FUNÇÃO: Renderiza e aplica a lógica do Accordion (Sanfona)
+
 function renderizarFAQ() {
     const container = document.getElementById('faq-container');
     container.innerHTML = '';
