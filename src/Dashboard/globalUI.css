@@ -2,17 +2,17 @@
    CORREÇÃO DO TAMANHO DO LOGO E ALINHAMENTO
    ========================================= */
 .nav-logo { 
-    width: 60px !important; /* Espaço reduzido para puxar os botões */
-    height: 70px !important; /* Usa a mesma altura da sua barra (top-nav) */
+    width: 60px !important; 
+    height: 70px !important; 
     display: flex; 
     align-items: center; 
     justify-content: flex-start;
-    overflow: hidden; /* Corta a sobra transparente da imagem que sair dessa caixa */
+    overflow: hidden; 
 }
 
 .nav-logo img { 
-    height: 100px !important; /* Dobra o tamanho real do arquivo dentro da caixa */
-    max-width: none !important; /* Impede que o CSS esprema a imagem */
+    height: 100px !important; 
+    max-width: none !important; 
     object-fit: cover !important; 
     margin-left: -60px !important;
 }
