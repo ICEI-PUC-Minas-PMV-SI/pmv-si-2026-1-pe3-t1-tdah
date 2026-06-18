@@ -41,9 +41,8 @@ O Sistema de Gerenciamento de Tarefas não terá sugestões de tratamento e medi
 | RF4 | Subir de Nível | Processamento para aumentar o nível do personagem após alcançar a quantidade de experiência necessária. |
 | RF5 | Gerenciar hábitos | Processamento de Inclusão, Alteração, Consulta de tarefas recorrentes. |
 | RF6 | Administração de pontos acumulados | Sistema para utilização dos pontos em recompensas. |
-| RF7 | Personalizar o avatar | Processamento de alteração do visual do avatar: vestuário, acessórios, background, pets. |
-| RF8 | Gerenciamento de Agenda | Processamento de inclusão e alteração de prazos nas tarefas com prazo limite, personalização de tarefas "extras" fora da rotina. |
-| RF9 | Consultar tarefas | Processamento de consulta de tarefas por palavra-chave ou nome. |
+| RF7 | Gerenciamento de Agenda | Processamento de inclusão e alteração de prazos nas tarefas com prazo limite, personalização de tarefas "extras" fora da rotina. |
+| RF8 | Consultar tarefas | Processamento de consulta de tarefas por palavra-chave ou nome. |
 
 ### 3.3.2 Requisitos Não Funcionais
 
