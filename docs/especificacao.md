@@ -34,12 +34,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | RF1 | Gerenciar Curso de Aperfeiçoamento |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Cursos de Aperfeiçoamento |
 | RF2 |	Gerenciar Professor	| Processamento de Inclusão, Alteração, Exclusão e Consulta de professores |
 | RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
-| RF4 |	Subir de Nível	| Processamento para aumentar o nível do personagem após alcançar a quantidade de experiência necessária |
-| RF5 |	Gerenciar hábitos	| Processamento de Inclusão, Alteração e Consulta de tarefas recorrentes |
-| RF6 |	Administração de pontos acumulados	| Sistema para utilização dos pontos em recompensas |
-| RF7 |	Personalizar o avatar	| Processamento de alteração do visual do avatar: vestuário, acessórios, background e pets |
-| RF8 |	Gerenciamento de Agenda	| Processamento de inclusão, alteração de prazos nas tarefas com prazo limite, personalização de tarefas "extras" fora da rotina |
-| RF9 |	Consultar tarefas	| Processamento de consulta de tarefas por palavra-chave ou nome |
+| ... |	... |	... |
 
 ### 3.3.2 Requisitos Não Funcionais
 
