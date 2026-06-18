@@ -18,5 +18,5 @@ MACEDO, R.; ROCHA, P. Os desafios e particularidades do diagnóstico de TDAH em 
 
 MIKAMI, Amori Y. et al. Por que é importante diagnosticar TDAH em adultos. In: **Coleção Pesquisas em Ciências da Saúde**. [S. l.]: Editora Científica Digital, 2021. Disponível em: https://www.editoracientifica.com.br/books/chapter/250619461. Acesso em: 21 abr. 2026.
 
-KURIYAN, A. B.; PELHAM, W. E.; MOLINA, B. S. G.; WASCHBUSCH, D. A.; GNAGY, E. M.; SIBLEY, M. H.; BABINSKI, D. E.; WALTHER, C.; CHEONG, J.; YU, J.; KENT, K. M. Young adult educational and vocational outcomes of children diagnosed with ADHD. Journal of Abnormal Child Psychology, [S. l.], v. 41, n. 1, p. 27–41, 2013. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505256/.
+KURIYAN, A. B.; PELHAM, W. E.; MOLINA, B. S. G.; WASCHBUSCH, D. A.; GNAGY, E. M.; SIBLEY, M. H.; BABINSKI, D. E.; WALTHER, C.; CHEONG, J.; YU, J.; KENT, K. M. Young adult educational and vocational outcomes of children diagnosed with ADHD. Journal of Abnormal Child Psychology, [S. l.], v. 41, n. 1, p. 27–41, 2013. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505256/. Acesso em: 18 jun. 2026
 
